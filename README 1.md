@@ -33,4 +33,7 @@
 
    gedit .bashrc
    
-   Hapus script bashrc default, dan gunakan script yang sudah saya sediakan
+   Hapus script bashrc default, dan gunakan script yang sudah saya sediakan di file ScriptTutor2
+   kemudian save
+   
+# (Janda Rasa Perawan dan Hack Your Dick) bisa kalian ganti Bebas
